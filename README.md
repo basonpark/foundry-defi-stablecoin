@@ -9,3 +9,6 @@ Stablecoin Architecture Overview
    2. wBTC
 
 
+Questions to consider
+1. What are the invariants/properties of this system?
+2. 
